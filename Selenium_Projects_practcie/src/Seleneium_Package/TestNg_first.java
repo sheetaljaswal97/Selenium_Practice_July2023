@@ -7,7 +7,7 @@ public class TestNg_first {
 	@Test
 	public void method()
 	{
-		System.out.println("Print the statement");
+		System.out.println("Print the statements");
 	}
 
 	
